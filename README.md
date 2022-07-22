@@ -1,3 +1,7 @@
+windows、Mac、Android 这里下载
+https://qxnav.com/app/363.html
+
+
 此版本基于微信官方包制作，每次有新的版本出现，可直接覆盖安装，不会丢失聊天记录（建议先备份，以防万一）
 
 
