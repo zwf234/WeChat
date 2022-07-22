@@ -82,3 +82,9 @@ YouTube：https://youtu.be/mAYUhQ3vws0
 
 ## 更新日志
 https://qxnav.com/1076.html
+
+## 支持作者
+
+<div align="center">
+<img src=https://qxnav.com/images/zhichi.png width=60% />
+</div>
