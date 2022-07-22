@@ -85,6 +85,5 @@ https://qxnav.com/1076.html
 
 ## 支持作者
 
-<div align="left">
-<img src=https://qxnav.com/images/zhichi.png width=40% />
-</div>
+![赞赏码](https://qxnav.com/images/zhichi.png))
+
