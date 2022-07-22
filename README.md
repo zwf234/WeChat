@@ -85,5 +85,5 @@ https://qxnav.com/1076.html
 
 ## 支持作者
 
-![赞赏码]([https://qxnav.com/images/zhichi.png](https://raw.githubusercontent.com/zwf234/WeChat/main/zhichi.png))
+![赞赏码](https://raw.githubusercontent.com/zwf234/WeChat/main/zhichi.png)
 
