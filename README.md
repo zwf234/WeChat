@@ -87,3 +87,6 @@ https://qxnav.com/1076.html
 
 ![赞赏码](https://raw.githubusercontent.com/zwf234/WeChat/main/zhichi.png)
 
+<div align="center">
+<img src=https://raw.githubusercontent.com/zwf234/WeChat/main/zhichi.png width=60% />
+</div>
